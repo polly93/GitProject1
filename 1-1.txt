@@ -1,2 +1,1 @@
-﻿현재는 commit됨.
-수정1
+﻿child_branch merge 테스트
