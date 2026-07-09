@@ -1,3 +1,2 @@
-﻿현재는 commit됨.
-수정1 - sub3 만들기 전
+﻿child_branch merge 테스트
 master 최종내용.
